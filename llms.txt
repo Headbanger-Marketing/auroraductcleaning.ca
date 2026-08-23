@@ -1,2 +1,25 @@
 # Aurora Duct Cleaning
-HVAC services in Ontario.
+
+> Aurora Duct Cleaning is a local HVAC company serving Aurora, York, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (905) 727-3184  |  Email: contact@auroraductcleaning.ca  |  Website: https://auroraductcleaning.ca
+
+## Key pages
+
+- [Home](https://auroraductcleaning.ca/): Aurora Duct Cleaning homepage with service overview and FAQ
+- [About](https://auroraductcleaning.ca/about/): About the company and service area
+- [Contact](https://auroraductcleaning.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Air Duct Cleaning](https://auroraductcleaning.ca/services/air-duct-cleaning/): Air Duct Cleaning in Aurora, Ontario
+- [Dryer Vent Cleaning](https://auroraductcleaning.ca/services/dryer-vent-cleaning/): Dryer Vent Cleaning in Aurora, Ontario
+- [Furnace & AC Cleaning](https://auroraductcleaning.ca/services/furnace-ac-cleaning/): Furnace & AC Cleaning in Aurora, Ontario
+- [HRV & Ventilation Cleaning](https://auroraductcleaning.ca/services/hrv-ventilation-cleaning/): HRV & Ventilation Cleaning in Aurora, Ontario
+- [Duct Sanitizing & Deodorizing](https://auroraductcleaning.ca/services/duct-sanitizing/): Duct Sanitizing & Deodorizing in Aurora, Ontario
+- [Duct Sealing & Repair](https://auroraductcleaning.ca/services/duct-sealing-repair/): Duct Sealing & Repair in Aurora, Ontario
+- [Commercial Duct Cleaning](https://auroraductcleaning.ca/services/commercial-duct-cleaning/): Commercial Duct Cleaning in Aurora, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Aurora are answered on the homepage.
